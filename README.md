@@ -1,3 +1,1 @@
-# Final_project_IBM_DataScience
-
-Extracting essential data from a dataset and displaying it is a necessary part of data science; therefore individuals can make correct decisions based on the data. In this assignment, you will extract some stock data, you will then display this data in a graph.
+For my final project in the IBM Data Science course, I acquired valuable skills in extracting stock data and visualizing it in the form of a graph.
